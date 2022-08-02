@@ -1,0 +1,13 @@
+  /* Customizing the carousel card. Show the stepper only on hover  */
+  .carousel .MuiMobileStepper-root {
+    opacity: 0;
+    transition: all ease 1000ms;
+  }
+
+  .carousel:hover .MuiMobileStepper-root {
+    opacity:1
+  }
+
+  .carousel:hover .MuiMobileStepper-dotActive {
+    background-color: #fff
+  }
