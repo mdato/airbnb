@@ -15,5 +15,5 @@ Full Stack Web Developer
 
 About this Project:
 -------------------
-* 🌍  Project based in React, MaterialUi
-* 🖥️  link to this app: [deploy-vercel]([https://airbnbodie.vercel.app/])
+* 🌍  Project based in Express
+* 🖥️  link to this app: [deploy-vercel](https://airbnbodie.vercel.app/)
