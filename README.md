@@ -1,7 +1,6 @@
 Hi 👋 My name is Marcelo Dato
 =============================
 
-<<<<<<< HEAD
 Full Stack Web Developer
 ------------------------
 
@@ -16,10 +15,5 @@ Full Stack Web Developer
 
 About this Project:
 -------------------
-* 🌍  Project based in React, Material Ui 
-* 🖥️  link to this app: [deploy-vercel]([https://airbnb-mdato.vercel.app/])
-=======
-### react+material-ui+react-icons+react-swipeable
-https://airbnb-mdato.vercel.app/
->>>>>>> d54a2dce637836855ccc7a24214d3118956bd2be
-
+* 🌍  Project based in React, MaterialUi
+* 🖥️  link to this app: [deploy-vercel]([https://airbnbodie.vercel.app/])
