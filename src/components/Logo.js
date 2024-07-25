@@ -9,8 +9,20 @@ import { flexCenter } from 'themes/Styles';
 const Logo = () => {
   return (
     <Box sx={flexCenter}>
-<img src="https://logosmarcas.net/wp-content/uploads/2020/07/Airbnb-Logo-2014-Presente.jpg" width='120px' height='60px' alt='airbnb' />
-      
+      <a 
+        href="https://bacode.com.ar" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{ cursor: 'pointer' }} // Cambia el puntero a una manito
+      >
+        <img 
+          src={`${process.env.PUBLIC_URL}/bodie.png`} 
+          width='50px' 
+          height='50px' 
+          alt='bodie' 
+          style={{ position: 'relative', top: '-5px' }} 
+        />
+      </a>
     </Box>
   );
 };
